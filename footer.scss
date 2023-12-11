@@ -1,0 +1,31 @@
+footer  {
+    width: 80vw;
+    margin: 30px 10vw;
+    background-color: black;
+    border: rgb(17, 0, 255) 3px solid;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+
+        .sred {
+            width: 80%;
+            margin: 0;
+            height: 100px;
+            background-color: red;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            margin-left: 3%;
+        }
+
+        .sye {
+            width: 20%;
+            margin: 0 3%;
+            height: 100px;
+            background-color: yellow;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            
+
+        
+        } 
+}
